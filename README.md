@@ -3,10 +3,11 @@ my fork of the simple terminal - the terminal that sucks less
 
 patched and modified according to me needs (and my abilities :P)
 
-![image](https://drive.google.com/uc?id=1k34I5ScadhhUGdG1BTKUa7o05VgjfwAU)
+![image](https://i.imgur.com/eCFX7ze.png)
 
 
 Installation
+
 ```
 $ git clone https://github.com/RishabhAroraa/st.git
 $ cd st
