@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack-Regular:pixelsize=16:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
 static char *font2[] = {
 	"Symbola:pixelsize=16:antialias=true:autohint=true",
 };
@@ -97,12 +97,12 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.8;
+float alpha = 0.75;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
-	"#282828",
+	"#181818",
 	"#cc241d",
 	"#98971a",
 	"#d79921",
@@ -112,7 +112,7 @@ static const char *colorname[] = {
 	"#a89984",
 
 	/* 8 bright colors */
-	"#928374",
+	"gray50",
 	"#fb4934",
 	"#b8bb26",
 	"#fabd2f",
