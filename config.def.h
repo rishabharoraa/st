@@ -7,7 +7,7 @@
  */
 static char *font = "FiraCode Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
 static char *font2[] = {
-	"Symbola:pixelsize=16:antialias=true:autohint=true",
+	"JoyPixels:pixelsize=16:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
@@ -97,7 +97,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.75;
+float alpha = 0.55;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
