@@ -3,7 +3,7 @@ my fork of the simple terminal - the terminal that sucks less
 
 patched and modified according to me needs (and my abilities :P)
 
-![image](https://i.imgur.com/eCFX7ze.png)
+![image](https://i.imgur.com/AtNw3E3.png)
 
 
 Installation
