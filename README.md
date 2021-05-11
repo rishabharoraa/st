@@ -1,7 +1,7 @@
 # st
-my fork of the simple terminal - the terminal that sucks less
+My fork of the simple terminal - the terminal that sucks less
 
-patched and modified according to me needs (and my abilities :P)
+patched and modified according to my needs (and my abilities)
 
 ![image](./preview.png)
 
